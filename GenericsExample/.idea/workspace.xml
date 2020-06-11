@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2855caf4-32e2-4451-a83f-60df02077067" name="Default Changelist" comment="commit from IntelliJ" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dBGQsXbBaCthZ8zNfhVGr0XXOP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="GenericsExample" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2855caf4-32e2-4451-a83f-60df02077067" name="Default Changelist" comment="" />
+      <created>1591891059146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591891059146</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit from IntelliJ">
+      <created>1591895039077</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591895039077</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit from IntelliJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit from IntelliJ" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1592" height="854" key="DiffContextDialog" timestamp="1591895313676">
+      <screen x="0" y="23" width="1792" height="1054" />
+    </state>
+    <state x="100" y="123" width="1592" height="854" key="DiffContextDialog/0.23.1792.1054@0.23.1792.1054" timestamp="1591895313676" />
+    <state width="886" height="271" key="GridCell.Tab.0.bottom" timestamp="1591892870355">
+      <screen x="0" y="23" width="1792" height="1054" />
+    </state>
+    <state width="886" height="271" key="GridCell.Tab.0.bottom/0.23.1792.1054@0.23.1792.1054" timestamp="1591892870355" />
+    <state width="886" height="271" key="GridCell.Tab.0.center" timestamp="1591892870354">
+      <screen x="0" y="23" width="1792" height="1054" />
+    </state>
+    <state width="886" height="271" key="GridCell.Tab.0.center/0.23.1792.1054@0.23.1792.1054" timestamp="1591892870354" />
+    <state width="886" height="271" key="GridCell.Tab.0.left" timestamp="1591892870354">
+      <screen x="0" y="23" width="1792" height="1054" />
+    </state>
+    <state width="886" height="271" key="GridCell.Tab.0.left/0.23.1792.1054@0.23.1792.1054" timestamp="1591892870354" />
+    <state width="886" height="271" key="GridCell.Tab.0.right" timestamp="1591892870354">
+      <screen x="0" y="23" width="1792" height="1054" />
+    </state>
+    <state width="886" height="271" key="GridCell.Tab.0.right/0.23.1792.1054@0.23.1792.1054" timestamp="1591892870354" />
+    <state x="180" y="117" key="MergeDialog" timestamp="1591895121304">
+      <screen x="0" y="23" width="1792" height="1054" />
+    </state>
+    <state x="180" y="117" key="MergeDialog/0.23.1792.1054@0.23.1792.1054" timestamp="1591895121304" />
+    <state x="534" y="318" key="MultipleFileMergeDialog" timestamp="1591895122251">
+      <screen x="0" y="23" width="1792" height="1054" />
+    </state>
+    <state x="534" y="318" key="MultipleFileMergeDialog/0.23.1792.1054@0.23.1792.1054" timestamp="1591895122251" />
+    <state x="496" y="290" key="Vcs.Push.Dialog.v2" timestamp="1591895058202">
+      <screen x="0" y="23" width="1792" height="1054" />
+    </state>
+    <state x="496" y="290" key="Vcs.Push.Dialog.v2/0.23.1792.1054@0.23.1792.1054" timestamp="1591895058202" />
+  </component>
+</project>
